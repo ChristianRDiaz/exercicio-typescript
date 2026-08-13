@@ -1,0 +1,7 @@
+{
+  "compilerOptions":{
+  "target": "ES6", //version of JavaScript to compile to
+  "strict": true, //enable all strict type-checking options
+  "outDir":"./dist" //directory for compiled JavaScript files
+  }
+}
